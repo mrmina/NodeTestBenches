@@ -73,5 +73,8 @@
     "eslint": "^7.12.1",
     "source-map-support": "^0.5.19",
     "typescript": "~4.0.5"
+  },
+  "overrides": {
+    "flatted": "3.4.2"
   }
 }
