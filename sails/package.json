@@ -23,5 +23,8 @@
     "sails": "^1.5.0",
     "skipper": "^0.9.1",
     "spdy": "^4.0.2"
+  },
+  "overrides": {
+    "lodash": "4.18.0"
   }
 }
