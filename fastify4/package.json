@@ -36,5 +36,8 @@
     "lodash": "^4.17.19",
     "mocha": "^11.7.1",
     "pem": "^1.14.4"
+  },
+  "overrides": {
+    "handlebars": "4.7.10"
   }
 }
